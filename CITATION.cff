@@ -12,3 +12,6 @@ authors:
     given-names: Tatiana
     affiliation: Center for Digital Engineering
     orcid: https://orcid.org/0000-0002-9189-1579
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17078606
