@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Estimating Solar Wind Speed and Drag Parameter Using the Drag-Based Model for CME Propagation"
+version: 1.0.0
+date-released: 2025-09-08
+authors:
+  - family-names: Abu-Shaar
+    given-names: Zaina
+    affiliation: Center for Digital Engineering
+    orcid: https://orcid.org/0009-0009-1264-4202
+  - family-names: Podladchikova
+    given-names: Tatiana
+    affiliation: Center for Digital Engineering
+    orcid: https://orcid.org/0000-0002-9189-1579
