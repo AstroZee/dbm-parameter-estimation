@@ -23,7 +23,7 @@ An example of how to use the function is provided in the example.ipynb notebook.
 
 A detailed explanation of the estimation technique used in this repository is presented in the research paper
 
-*Z. Abu-Shaar, T. Podladchikova, A. Veronig, M. Dumbovi\'c, S. Hofmeister, 2025: "Coronal mass ejection arrival forecasting with the drag-based assimilation of satellite observations", Under review*. Under review*.
+*Z. Abu-Shaar, T. Podladchikova, A. Veronig, M. Dumbovi\'c, S. Hofmeister, 2025: "Coronal mass ejection arrival forecasting with the drag-based assimilation of satellite observations"*.
 
 
 We recommend referring to this paper for a comprehensive understanding of the methodology.
