@@ -23,10 +23,9 @@ An example of how to use the function is provided in the example.ipynb notebook.
 
 A detailed explanation of the estimation technique used in this repository is presented in the research paper
 
-*Z. Abu-Shaar, T. Podladchikova, A. Veronig, M. Dumbovi\'c, S. Hofmeister, 2025: "Coronal mass ejection arrival forecasting with the drag-based assimilation of satellite observations"*.
+*Z. Abu-Shaar, T. Podladchikova, A. Veronig, M. Dumbovi\'c, S. Hofmeister, 2025: "Coronal mass ejection arrival forecasting with the drag-based assimilation of satellite observations", Astrophysical Journal Supplement Series, Accepted, https://arxiv.org/abs/2509.25377*.
 
-
-We recommend referring to this paper for a comprehensive understanding of the methodology.
+For any scientific use, please refer to the paper and repository.
 
 ## Requirements
 To use this tool, you need Python 3 and the numpy Python library
